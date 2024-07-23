@@ -37,7 +37,7 @@ function changetoMetric(){
 
 }
 function delay(){
-  setTimeout(Bmi, 700);
+  setTimeout(Bmi, 0);
   
 }
 function Bmi(){
